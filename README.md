@@ -1,5 +1,6 @@
-# JSON-data-is-transformed-by-python-script-and-saved-as-a-CSV-file.
-a script transforms JSON files to a DataFrame and commit each file to a sperate CSV file 
+# ETL Python Script that performs the ETL process of JSON Data
+
+An ETL Python script transforms JSON files to a DataFrame and commit each file to a sperate CSV file 
 
 **Script details**
 
